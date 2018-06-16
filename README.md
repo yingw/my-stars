@@ -112,6 +112,7 @@
 
 ## Go 
 
+- [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
@@ -182,6 +183,11 @@
 
 ## Java 
 
+- [shiro](https://github.com/apache/shiro) - Mirror of Apache Shiro
+- [tomcat](https://github.com/apache/tomcat) - Mirror of Apache Tomcat
+- [wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
+- [jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+- [glassfish](https://github.com/javaee/glassfish) - The Open Source Java EE Reference Implementation
 - [guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [ECharts](https://github.com/abel533/ECharts) - 这是一个针对ECharts2.x版本的Java类库，实现了所有ECharts中的Json结构对应的Java对象，并且可以很方便的创建Option,Series等
 - [opentsdb](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series Database.
